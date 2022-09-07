@@ -5,19 +5,5 @@
 "homepage": "https://doctorstake.network"
 },
 {
-    "verification":"b43d6d6eb2985673c0",
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
-    "info": {
-        "location": "Düsseldorf, Germany",
-        "company": {
-            "name": "Doctor Stake",
-            "city": "Düsseldorf",
-            "country": "Germany"
-        },
-        "about": {
-            "me": "Odair Trujillo",
-            "server": "Ubuntu 20.04 NVMe low energy consumption",
-            "company": "Doctor Stake"
-        }
-    }
+"verification": "b43d6d6eb2985673c0",
 }
