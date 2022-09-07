@@ -3,7 +3,7 @@
 "description": "The most healthy pool of the ecosystem",
 "ticker": "DRSTK",
 "homepage": "https://doctorstake.network"
-}
+},
 {
     "verification":"b43d6d6eb2985673c0",
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
